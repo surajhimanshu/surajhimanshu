@@ -5,7 +5,7 @@
 - 📫 How to reach me himanshu4suraj@gmail.com
 
 <!-- ### Feel Free to Contact me..... -->
-<h3 align="center">Feel Free to Contact me.....</h3>
+<!-- <h3 align="center">Feel Free to Contact me.....</h3>
 <p align="left">
         <a href="https://github.com/surajhimanshu"><img alt="github" width="10%" style="padding:5px"
                         src="https://img.icons8.com/clouds/100/000000/github.png" /></a>
@@ -14,6 +14,11 @@
                         </a>
 
        
+</p>
+<h3 align="left">Connect with me:</h3> -->
+<p align="left">
+
+<a href="https://www.linkedin.com/in/suraj-himanshu-9aa58215a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhi-aro" height="30" width="40" /></a>
 </p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center ">  <a href="https://git-scm.com/" target="_blank"> <img
